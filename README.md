@@ -20,9 +20,9 @@ For adding the counter-up functionality, add the class `mm-counter` to an elemen
 
 To finish up, initialize counter up class by adding the following code.
 
-The first parameter is the start of the number. 
-The second is the end of number. 
-And the last one is the miliseconds the animation will take.
+The first parameter is the start of the number. \
+The second is the end of number. \
+And the last one is the miliseconds the animation will take. \
 
 
 ```javascript
