@@ -1,5 +1,5 @@
 # MyanmarCounterUp
-Add counter up functionality to your numbers in Myanmar font. 
+Add counter up functionality to your numbers in Myanmar font.  
 ![Giphy](https://media.giphy.com/media/OrHFkNSzgLYPpsIvnE/giphy.gif)
 
 ## Setup 
