@@ -1,2 +1,2 @@
 # MyanmarCounterUp
-Add counter up functionality to your numbers in Myanmar numbers. 
+Add counter up functionality to your numbers in Myanmar font. 
