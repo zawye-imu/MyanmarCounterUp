@@ -1,8 +1,6 @@
 # MyanmarCounterUp
 Add counter up functionality to your numbers in Myanmar font. 
-
-# Demo
-
+![Giphy](https://media.giphy.com/media/OrHFkNSzgLYPpsIvnE/giphy.gif)
 
 ## Setup 
 Make sure myanmarCounterUp.js is included in the HTML file. 
