@@ -1,0 +1,24 @@
+{
+  "name": "myanmarcounterup",
+  "version": "1.0.0",
+  "description": "Counter Up function with Myanmar Numbers",
+  "main": "myanmarCounterUp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zawye-imu/MyanmarCounterUp.git"
+  },
+  "keywords": [
+    "counterup",
+    "myanmar",
+    "numbers"
+  ],
+  "author": "ZawYe <'zawye.official20@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zawye-imu/MyanmarCounterUp/issues"
+  },
+  "homepage": "https://github.com/zawye-imu/MyanmarCounterUp#readme"
+}
